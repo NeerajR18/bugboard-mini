@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "skibidi.kicad_pro",
+    "filename": "bugboard-mini.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/Neeraj/Documents/GitHub/bugboard-mini/Production/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "skibidi.kicad_sch",
-        "name": "Root",
+        "filename": "bugboard-mini.kicad_sch",
+        "name": "bugboard-mini",
         "uuid": "ab031141-a59c-4cb8-9700-6fc1a5e6d1a4"
       }
     ],
