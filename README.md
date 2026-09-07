@@ -1,2 +1,42 @@
 # bugboard-mini
 Small Size development board based on the STM32G431KBT6
+
+## Features
+- Small PCB, 20 mm x 25 mm
+- Debug headers included
+- Supports USART
+
+## PCB
+
+#### Schematic
+<img width="986" height="680" alt="image" src="https://github.com/user-attachments/assets/21316db5-7fe2-432e-9594-5535944a4474" />
+
+#### PCB
+
+- PCB front
+
+<img width="430" height="542" alt="image" src="https://github.com/user-attachments/assets/95a97b44-a9d2-42b1-917c-a72d92888420" />
+
+- PCB back
+
+<img width="442" height="542" alt="image" src="https://github.com/user-attachments/assets/e427efbd-b8ea-46e0-b50a-6f760d538f09" />
+
+Made fully in KiCad.
+
+## Bill of Materials
+
+| MPN | Quantity | Unit Price (USD) | Ext. Price (USD) | Link |
+|---|---:|---:|---:|---|
+| STM32G431KBT6 | 1 | $7.03 | $7.03 | [LionCircuits](https://www.lioncircuits.com/parts/STM32G431KBT6) |
+| RC0402FR-1010KL | 100 | $0.0037 | $0.37 | [Robu](https://robu.in/product/rc0402fr-1010kl-yageo-0-063w-thick-film-resistors-%c2%b1100ppm-%e2%84%83-%c2%b11-10k%cf%89-0402-chip-resistor-surface-mount-rohs/) |
+| RC0402FR-075K1L | 100 | $0.002 | $0.20 | [Robu](https://robu.in/product/rc0402fr-075k1l-yageo-res-thick-film-0402-5-1k-ohm-1-0-063w1-16w-%c2%b1100ppm-c-pad-smd-t-r/) |
+| XC6206P182MR | 5 | $0.037 | $0.185 | [Robu](https://robu.in/product/xc6206p182mr-twgmc-70db1khz-300ma-fixed-1-8v-positive-electrode-6v-sot-23-voltage-regulators-linear-low-drop-out-ldo-regulators-rohs/) |
+| TCC0402X5R104K500AT | 100 | $0.0025 | $0.25 | [Robu](https://robu.in/product/tcc0402x5r104k500at-cctc-smt-ceramic-capacitors-0402-x5r-104k100nf%c2%b110-rated-voltage50v-thickness0-50mm-tape/) |
+| PRTR5V0U2X | 5 | $0.095 | $0.475 | [Robu](https://robu.in/product/prtr5v0u2x215-nexperia-prtr5v0u2x215-esd-protection-device-tvs-7-5-v-sot-143b-4-pins-5-5-v-prtr5/) |
+| TYPE-C-31-M-12 | 2 | $0.40 | $0.80 | [Robu](https://robu.in/product/type-c-31-m-12-hroparts-5a-1-16p-female-type-c-smd-usb-connectors-rohs/) |
+| SMD0603P050TF | 5 | $0.13 | $0.65 | [Robu](https://robu.in/product/smd0603p050tf-pttcpolytronics-tech-6v-40a-500ma-1a-0603-resettable-rohs/) |
+| TS-1088-AR02016 | 5 | $0.029 | $0.145 | [Robu](https://robu.in/product/1-month-warranty-470/) |
+| CC0402MRX5R5BB106 | 10 | $0.048 | $0.48 | [Robu](https://robu.in/product/cc0402mrx5r5bb106-yageo-cap-smd-mlcc-10-%c2%b5f-6-3-v-0402-1005-metric-20-x5r-cc-series/) |
+| PCB from ROBU | 5 | $1.90 | $9.52 | [Robu](https://robu.in/product/online-pcb-manufacturing-service/) |
+| Shipping Charges | - | $5.00 | $5.00 | - |
+| **Total** | | **$14.6772** | | |
